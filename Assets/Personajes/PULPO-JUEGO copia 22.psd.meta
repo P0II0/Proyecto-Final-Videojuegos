@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 7d9054cf3b763d34f8eb404bc42a846d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1070
+        width: 183
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d46da60c13d8fe4da1918622bfcb9a5
+      internalID: 2031144360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1070
+        width: 192
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fadfe1cfa8404c4f8f700f1554d61a7
+      internalID: -1214456332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1070
+        width: 203
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c03bfb593c0454db8e09f40936e0a5
+      internalID: 2133579401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1070
+        width: 204
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d3aac7a6059654abd682cbb55e418c
+      internalID: 465757093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 838
+        width: 212
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c9b24f3194bb4c83a7f6fbb35b31c
+      internalID: 276968144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 595
+        width: 228
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baccfb4f578006e469f26900c7ca1ac7
+      internalID: -1889228472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 595
+        width: 172
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2124a301bc733fa4b88dc87f8dcdcfe7
+      internalID: -743108938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 596
+        width: 358
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7fa09b419278d44b6872996f3c6849
+      internalID: 1127881975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 594
+        width: 347
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24410e0ddf1d845ad14c4ac9ccafca
+      internalID: 68932533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_9
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 594
+        width: 335
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76acc85f064558446819de6d6dc566b3
+      internalID: -1000051949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_10
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 594
+        width: 327
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077392a8339a744e81fcc0ba722f95d
+      internalID: 1568684214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 437
+        width: 230
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6872c29967fd048be778524b672467
+      internalID: -1588290983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 435
+        width: 201
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1790d4b5629c76846bce7be540e76128
+      internalID: 1339594449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_13
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 437
+        width: 202
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1147d44df6db24b8c48f6bb98b93c6
+      internalID: 779394985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 436
+        width: 198
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af615a5a5334cf42b25a91c52b48523
+      internalID: 1999993915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_15
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 435
+        width: 194
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189910e94e199af41adba12f331d52c4
+      internalID: -2048814249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 111
+        width: 398
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068aa4f3ee831974ab75a13ff1d606e4
+      internalID: 629790083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_17
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 53
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1816b701ebf962c4a98d5130a34830d0
+      internalID: 670479123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_18
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 14
+        width: 151
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13b29557011e594ea6497ca128abe83
+      internalID: 2107021030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_19
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 35
+        width: 95
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f810ab2308a70c94aa6eb96c4c4b0710
+      internalID: -71163731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_20
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 463
+        width: 91
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c1af2df0760854bbd0c0e4c74563b7
+      internalID: 1869741620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 116
+        width: 473
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef56eec439246d4cba941dbe2826731
+      internalID: -1692798233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_22
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 161
+        width: 411
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddc4126a26a6b34eb521b279cf09768
+      internalID: 122807873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_23
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 325
+        width: 166
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8473b8a71466499d0ac1a173e4d40
+      internalID: -600382637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 212
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de1829fdbd85b74d9f571395a23bc43
+      internalID: 1286334025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_25
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 405
+        width: 103
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb519ac0bfdd864d9cb5f932ac93a25
+      internalID: -255578631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_26
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 125
+        width: 168
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca1d97aed6a4bf49a532e0c7bfcd94a
+      internalID: -860512045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_27
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 249
+        width: 169
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54b55fb6a52f494fbed43fcfb8c1c27
+      internalID: 1271930669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PULPO-JUEGO copia 22_28
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 22
+        width: 122
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7290a7afcadf71144b995e9977754793
+      internalID: 1614847652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PULPO-JUEGO copia 22_0: 2031144360
+      PULPO-JUEGO copia 22_1: -1214456332
+      PULPO-JUEGO copia 22_10: 1568684214
+      PULPO-JUEGO copia 22_11: -1588290983
+      PULPO-JUEGO copia 22_12: 1339594449
+      PULPO-JUEGO copia 22_13: 779394985
+      PULPO-JUEGO copia 22_14: 1999993915
+      PULPO-JUEGO copia 22_15: -2048814249
+      PULPO-JUEGO copia 22_16: 629790083
+      PULPO-JUEGO copia 22_17: 670479123
+      PULPO-JUEGO copia 22_18: 2107021030
+      PULPO-JUEGO copia 22_19: -71163731
+      PULPO-JUEGO copia 22_2: 2133579401
+      PULPO-JUEGO copia 22_20: 1869741620
+      PULPO-JUEGO copia 22_21: -1692798233
+      PULPO-JUEGO copia 22_22: 122807873
+      PULPO-JUEGO copia 22_23: -600382637
+      PULPO-JUEGO copia 22_24: 1286334025
+      PULPO-JUEGO copia 22_25: -255578631
+      PULPO-JUEGO copia 22_26: -860512045
+      PULPO-JUEGO copia 22_27: 1271930669
+      PULPO-JUEGO copia 22_28: 1614847652
+      PULPO-JUEGO copia 22_3: 465757093
+      PULPO-JUEGO copia 22_4: 276968144
+      PULPO-JUEGO copia 22_5: -1889228472
+      PULPO-JUEGO copia 22_6: -743108938
+      PULPO-JUEGO copia 22_7: 1127881975
+      PULPO-JUEGO copia 22_8: 68932533
+      PULPO-JUEGO copia 22_9: -1000051949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
