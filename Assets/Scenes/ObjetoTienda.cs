@@ -24,15 +24,20 @@ public class ObjetoTienda : MonoBehaviour, IPointerDownHandler
     public void OnPointerDown(PointerEventData eventData)
     {
         int MonedasDisponibles = Player.GetComponent<P8controler>().Monedas;
+        int Pociones = Player.GetComponent<P8controler>().Pocion;
 
         if (MonedasDisponibles >= precio)
         {
             MonedasDisponibles -= precio;
+            Pociones++;
+            Player.GetComponent<P8controler>().Pocion = Pociones;
             Player.GetComponent<P8controler>().Monedas = MonedasDisponibles;
+            Player.GetComponent<P8controler>().RefreshUI();
+            Player.GetComponent<P8controler>().Pocionn();
 
-            GameObject PanelPlayer = GameObject.Find("PanelPlayer");
+            //GameObject PanelPlayer = GameObject.Find("PanelPlayer");
 
-            for (int a = 0; a < 10; a++)
+            /*for (int a = 0; a < 10; a++)
             {
                 if (PanelPlayer.transform.GetChild(a).childCount < 1)
                 {
@@ -41,7 +46,7 @@ public class ObjetoTienda : MonoBehaviour, IPointerDownHandler
                     Player.GetComponent<P8controler>().RefreshUI();
                     break;
                 }
-            }
+            }*/
         }
     }
 }
